@@ -1,4 +1,4 @@
-[# Turbine Component Failures Analysis 🏏  
+# Turbine Component Failures Analysis   
 
 ### A Data Science Project 📊  
 
