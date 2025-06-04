@@ -3,7 +3,7 @@
 ### A Data Science Project 📊  
 
 
-![Turbine Component Failures Header](./images/0623-IF1-I1-1024x682.)  
+
 
 **Turbine Component Failures**   
   
