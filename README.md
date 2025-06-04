@@ -2,8 +2,6 @@
 
 ### A Data Science Project 📊  
 
- ![Turbine Component Failures Header](https://github.com/harshnamd/Guvi_Project/blob/main/cf79b1bf-e2c8-4aa0-aec5-bf3c4f9b3a34.png?raw=true)
-
 
 **Turbine Component Failures**   
   
