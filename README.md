@@ -37,7 +37,7 @@ Created plots like heatmaps, trend graphs, and boxplots to uncover patterns, det
  
  ## Folder Convention 
 
- ![Turbine Component Failures Header]([./images/BCO.24b60945-dbd4-45ad-a231-0e2b9eb90480.png](https://github.com/harshnamd/Guvi_Project/blob/84fba5d245bde28ff90ad1be4c697a8d39fc0c95/BCO.24b60945-dbd4-45ad-a231-0e2b9eb90480.png))
+ ![Turbine Component Failures Header](https://github.com/harshnamd/Guvi_Project/blob/main/BCO.24b60945-dbd4-45ad-a231-0e2b9eb90480.png?raw=true)
 
 
 
