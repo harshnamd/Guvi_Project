@@ -35,9 +35,15 @@ Created plots like heatmaps, trend graphs, and boxplots to uncover patterns, det
  
  ## Folder Convention 
 
- ![Turbine Component Failures Header](https://github.com/harshnamd/Guvi_Project/blob/main/BCO.24b60945-dbd4-45ad-a231-0e2b9eb90480.png?raw=true)
-
-
+ ```
+├── README.md                  # Project overview and guide
+├── ReckAir.ipynb              # Jupytter Notebook for model development
+├── ReckAir.pkl                # Trained Machine Learning model file
+├── ReckAir_Test_data.csv      # Test dataset for evaluation
+├── ReckAir_Train_Data.csv     # Training dataset for model learning
+├── WDQWD.py                   # Python script for additional data processing
+├── .gitattributes             # Git configuration file
+```
 
   
  ## License ⚖️
